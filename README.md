@@ -71,7 +71,7 @@ transformer-from-scratch/
 
 ```bash
 # Clone repository
-git clone <URL_REPO_ANDA>
+git clone https://github.com/AdindaPutri1/transformer-from-scratch.git
 cd transformer-from-scratch
 
 # Buat virtual environment (Disarankan)
